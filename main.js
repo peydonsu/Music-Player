@@ -53,7 +53,13 @@ let track_list = [
     artist: "Darude",
     image: "https://upload.wikimedia.org/wikipedia/en/9/98/Sandstorm_single.jpg",
     path: "Sandstorm.mp3"
-}
+},
+{
+    name: "祝福你",
+    artist: "Unknown Artist",
+    image: "https://upload.wikimedia.org/wikipedia/en/9/98/Sandstorm_single.jpg",
+    path: "SunSea.mp3"
+},
 ];
 function loadTrack(track_index) {
     // Clear the previous seek timer
