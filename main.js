@@ -57,7 +57,7 @@ let track_list = [
 {
     name: "祝福你",
     artist: "Unknown Artist",
-    image: "image.png",
+    image: "https://i.scdn.co/image/ab67616d00001e02da68f609aacbba9fde19fd93",
     path: "SunSea.mp3"
 },
 ];
