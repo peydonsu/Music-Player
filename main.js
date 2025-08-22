@@ -57,7 +57,7 @@ let track_list = [
 {
     name: "祝福你",
     artist: "Unknown Artist",
-    image: "https://discussions.apple.com/content/attachment/881765040",
+    image: "image.png",
     path: "SunSea.mp3"
 },
 ];
