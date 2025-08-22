@@ -57,7 +57,7 @@ let track_list = [
 {
     name: "祝福你",
     artist: "Unknown Artist",
-    image: "https://upload.wikimedia.org/wikipedia/en/9/98/Sandstorm_single.jpg",
+    image: "https://discussions.apple.com/content/attachment/881765040",
     path: "SunSea.mp3"
 },
 ];
